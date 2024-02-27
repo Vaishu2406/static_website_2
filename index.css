@@ -1,0 +1,121 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.home-card {
+    width: 100vw;
+    height: 200px;
+    background-color: #ffffff;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.heading {
+    font-family: Bree Serif;
+    font-size: 20px;
+    color: #f19116;
+    padding: 5px;
+    text-align: center;
+    font-weight: bold;
+    margin: 5px;
+}
+
+.para {
+    font-family: Bree Serif;
+    font-size: 15px;
+    color: #7b8794;
+    padding: 5px;
+    text-align: center;
+}
+
+.orange-button {
+    background-color: #f19116;
+    height: 30px;
+    width: 80px;
+    color: #ffffff;
+    font-size: 12px;
+    border-radius: 5px;
+    border-width: 0px;
+    margin: 10px;
+}
+
+.left-align {
+    text-align: left;
+}
+
+.card-heading {
+    color: #222222;
+    font-family: Bree Serif;
+    font-size: 20px;
+    padding: 5px;
+    font-weight: bold;
+    margin: 5px;
+}
+
+.flats-card {
+    background-color: #222222;
+    background-size: cover;
+    height: 100vh;
+}
+
+.card {
+    background-color: #ffffff;
+    height: 150px;
+    width: 90vw;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+.card-image {
+    height: 150px;
+    width: 80px;
+}
+
+.card-para {
+    font-family: Bree Serif;
+    font-size: 12px;
+    color: #7b8794;
+    padding: 5px;
+    font-weight: 500;
+}
+
+.location-icon {
+    height: 30px;
+    width: 30px;
+}
+
+.bhk-3-image {
+    height: 30vh;
+    width: 100vw;
+}
+
+.bhk-3-card {
+    background-color: #222222;
+    background-size: cover;
+    height: 70vh;
+    width: 100vw;
+
+}
+
+.bhk-para {
+    font-family: Bree Serif;
+    font-size: 12px;
+    color: #ffffff;
+    padding: 5px;
+    font-weight: 500;
+    margin: 5px;
+}
+
+.align {
+    text-align: left;
+}
+
+.line {
+    background-color: #ffffff;
+    width: 430px;
+
+}
